@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qoveners", "Qoveners\Qoveners.csproj", "{BAF7ADE2-6B5C-4E95-8962-79539637A7F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF7ADE2-6B5C-4E95-8962-79539637A7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF7ADE2-6B5C-4E95-8962-79539637A7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF7ADE2-6B5C-4E95-8962-79539637A7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF7ADE2-6B5C-4E95-8962-79539637A7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34D324EB-55F2-419B-B297-9E98B6081D9D}
+	EndGlobalSection
+EndGlobal

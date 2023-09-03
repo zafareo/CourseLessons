@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option csharp_namespace = "Server.Protos";
+package telegram;
+
+
+service Qovun {
+
+  rpc DropQovun (QovunRequest) returns (QovunResponse);
+}
+
+message QovunRequest {
+  string qovuner_id = 1; 
+  string qovuner_name = 2;       
+}
+message QovunResponse {
+  bool is_qovuned = 1;
+  string project_name = 2;
+  string qovuned_section = 3;
+  string qovuner = 4;
+}

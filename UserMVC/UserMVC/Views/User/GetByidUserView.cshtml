@@ -1,0 +1,13 @@
+﻿<h2>User Details</h2>
+<div>
+    <label for="userId">User ID:</label>
+    <input type="text" id="userId" name="Id" required>
+    <button type="submit">Get Details</button>
+</div>
+@if (Model != null)
+{
+    <h3>User Details:</h3>
+    <p><strong>User ID:</strong> @Model.Id</p>
+    <p><strong>User Name:</strong> @Model.Name</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+}

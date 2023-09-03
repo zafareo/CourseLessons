@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aHUjsh9qun9p9kbNWq8B5ZL0arXm4HmOdlh2h/VwspDYOt0+7a24IBB5GblBi7czcJR3oYHB2S56jirjloI0UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Mediator\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

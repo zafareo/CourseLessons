@@ -1,0 +1,26 @@
+﻿@model Employee
+
+@{
+    ViewData["Title"] = "Get employee by Id";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.Id</td>
+            <td>@Model.Name</td>
+            <td>@Model.Email</td>
+            <td><a href="@Url.Action("GetEmployeeById", "Employee", new { id = Model.Id })">GetById</a></td>
+        </tr>
+    </tbody>
+</table>
+

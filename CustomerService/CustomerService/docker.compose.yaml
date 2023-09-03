@@ -1,0 +1,8 @@
+﻿version: "3.8"
+services:
+  console_app:
+    build:
+      context: ./ConsoleApp
+      dockerfile: Dockerfile
+    container_name: console_container
+

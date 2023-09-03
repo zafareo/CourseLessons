@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcServerTest";
+
+package sogliqnisaqlashvazirligi;
+
+service SogliqniSaqlashVazirligi{
+	rpc AboutSSV (SSVRequest) returns (SSVResponse);
+}
+
+message SSVRequest{
+	string id = 1;
+	string name = 2;
+}
+
+message SSVResponse{
+	string id = 1;
+	string name = 2;
+	string about = 3;
+	string ssvabout = 4;
+}

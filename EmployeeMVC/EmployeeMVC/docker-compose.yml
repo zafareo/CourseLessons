@@ -1,0 +1,8 @@
+﻿version: "3.8"
+services:
+  mvc_app:
+    build:
+      context: ./MvcApp
+      dockerfile: Dockerfile
+    container_name: mvc_container
+

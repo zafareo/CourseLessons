@@ -1,0 +1,12 @@
+﻿<h2>Permission Details</h2>
+<div>
+    <label for="permissionId">Permission ID:</label>
+    <input type="text" id="permissionId" name="Id" required>
+    <button type="submit">Get Details</button>
+</div>
+@if (Model != null)
+{
+    <h3>Permission Details:</h3>
+    <p><strong>Permission ID:</strong> @Model.Id</p>
+    <p><strong>Permission Name:</strong> @Model.Name</p>
+}

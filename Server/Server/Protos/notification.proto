@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "Server.Protos";
+package telegram;
+
+
+service BotService {
+
+  rpc SendMessage (SendMessageRequest) returns (SendMessageResponse);
+}
+
+message SendMessageRequest {
+  string bot_token = 1; 
+  string chat_id = 2;   
+  string text = 3;      
+}
+message SendMessageResponse {
+  bool success = 1;    
+  string error_message = 2; 
+}

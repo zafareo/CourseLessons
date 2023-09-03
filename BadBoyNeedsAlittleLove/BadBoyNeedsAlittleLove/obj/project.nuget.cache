@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MOoI1jX01Zmtt56LphMcPrki6IqeFJpI8Ae+b5Rp5dOWmmQDcmC1F9bvX3af9TBTgVZWYv0QaiFqmfUPPrLnxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\BadBoyNeedsAlittleLove\\BadBoyNeedsAlittleLove\\BadBoyNeedsAlittleLove.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

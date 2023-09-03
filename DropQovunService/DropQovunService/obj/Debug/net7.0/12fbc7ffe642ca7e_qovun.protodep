@@ -1,0 +1,2 @@
+obj\Debug\net7.0\Protos/Qovun.cs \
+obj\Debug\net7.0\Protos/QovunGrpc.cs: Protos/qovun.proto

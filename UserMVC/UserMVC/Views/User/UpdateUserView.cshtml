@@ -1,0 +1,16 @@
+﻿<h2>Update User</h2>
+<form action="/api/User/update" method="post">
+    <div>
+        <label for="userId">User ID:</label>
+        <input type="text" id="userId" name="Id" required>
+    </div>
+    <div>
+        <label for="userName">New User Name:</label>
+        <input type="text" id="userName" name="Name" required>
+    </div>
+    <div>
+        <label for="email">New Email:</label>
+        <input type="email" id="email" name="Email" required>
+    </div>
+    <button type="submit">Update</button>
+</form>

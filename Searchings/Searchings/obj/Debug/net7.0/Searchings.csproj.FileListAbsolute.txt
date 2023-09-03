@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Searchings\Searchings\bin\Debug\net7.0\Searchings.exe
+C:\Users\HP\source\repos\Searchings\Searchings\bin\Debug\net7.0\Searchings.deps.json
+C:\Users\HP\source\repos\Searchings\Searchings\bin\Debug\net7.0\Searchings.runtimeconfig.json
+C:\Users\HP\source\repos\Searchings\Searchings\bin\Debug\net7.0\Searchings.dll
+C:\Users\HP\source\repos\Searchings\Searchings\bin\Debug\net7.0\Searchings.pdb
+C:\Users\HP\source\repos\Searchings\Searchings\obj\Debug\net7.0\Searchings.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Searchings\Searchings\obj\Debug\net7.0\Searchings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Searchings\Searchings\obj\Debug\net7.0\Searchings.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Searchings\Searchings\obj\Debug\net7.0\Searchings.AssemblyInfo.cs
+C:\Users\HP\source\repos\Searchings\Searchings\obj\Debug\net7.0\Searchings.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Searchings\Searchings\obj\Debug\net7.0\Searchings.dll
+C:\Users\HP\source\repos\Searchings\Searchings\obj\Debug\net7.0\refint\Searchings.dll
+C:\Users\HP\source\repos\Searchings\Searchings\obj\Debug\net7.0\Searchings.pdb
+C:\Users\HP\source\repos\Searchings\Searchings\obj\Debug\net7.0\Searchings.genruntimeconfig.cache
+C:\Users\HP\source\repos\Searchings\Searchings\obj\Debug\net7.0\ref\Searchings.dll
+C:\Users\HP\source\repos\Searchings\Searchings\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\HP\source\repos\Searchings\Searchings\obj\Debug\net7.0\Searchings.csproj.CopyComplete

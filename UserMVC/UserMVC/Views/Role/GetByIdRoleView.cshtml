@@ -1,0 +1,12 @@
+﻿<h2>Role Details</h2>
+<div>
+    <label for="roleId">Role ID:</label>
+    <input type="text" id="roleId" name="Id" required>
+    <button type="submit">Get Details</button>
+</div>
+@if (Model != null)
+{
+    <h3>Role Details:</h3>
+    <p><strong>Role ID:</strong> @Model.Id</p>
+    <p><strong>Role Name:</strong> @Model.Name</p>
+}

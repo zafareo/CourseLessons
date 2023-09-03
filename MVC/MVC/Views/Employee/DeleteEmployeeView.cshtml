@@ -1,0 +1,15 @@
+﻿@model Employee
+
+@{
+    ViewData["Title"] = "Delete Employee";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>Are you sure you want to delete the employee with ID: @Model.Id?</p>
+
+<form method="post" action="@Url.Action("DeleteEmployee", "Employee", new { id = Model.Id })">
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="@Url.Action("GetEmployeeById", "Employee", new { id = Model.Id })" class="btn btn-secondary">Cancel</a>
+</form>
+

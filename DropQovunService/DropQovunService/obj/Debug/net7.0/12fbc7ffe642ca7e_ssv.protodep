@@ -1,0 +1,2 @@
+obj\Debug\net7.0\Protos/Ssv.cs \
+obj\Debug\net7.0\Protos/SsvGrpc.cs: Protos/ssv.proto

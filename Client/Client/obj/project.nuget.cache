@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MD3XGaSya5AiiHEuurm4vfyaWwNkk4WreM9hb/sWeZu4EXBsTI2Ku9Qz5DG/jBn/UbyrFA4MdcyLj4sLcxDB6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Client\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\google.protobuf\\3.24.0\\google.protobuf.3.24.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\grpc.core.api\\2.55.0\\grpc.core.api.2.55.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\grpc.net.client\\2.55.0\\grpc.net.client.2.55.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\grpc.net.common\\2.55.0\\grpc.net.common.2.55.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

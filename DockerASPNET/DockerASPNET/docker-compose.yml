@@ -1,0 +1,7 @@
+﻿version: "3.8"
+services:
+  aspnet_app:
+    build:
+      context: ./AspNetApp
+      dockerfile: Dockerfile
+    container_name: aspnet_container

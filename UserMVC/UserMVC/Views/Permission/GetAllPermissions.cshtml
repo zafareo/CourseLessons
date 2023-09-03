@@ -1,0 +1,18 @@
+﻿<h2>All Permissions</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Permission ID</th>
+            <th>Permission Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var permission in Model)
+        {
+            <tr>
+                <td>@permission.Id</td>
+                <td>@permission.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
